@@ -12,15 +12,19 @@ Un'app web gratuita che apre i file `.bmpr` **nel browser, senza server**, li mo
 
 ## Stato
 
-- Solo analisi e piano. **Nessun codice scritto.** Prossimo passo: Step 0 (file di esempio creati con Balsamiq in versione di prova, repository, Vite + TypeScript).
+- Prima versione implementata il 23/10/2026: React + TypeScript, Vite, sql.js, SVG, rough.js, test Vitest/Playwright, Docker + Compose + Nginx. Leggere `README.md` per avvio, funzionalità e limiti.
+- L'utente ha autorizzato l'implementazione completa nel repository e il confezionamento Docker. Docker non è installato qui: avvio del container e riapertura delle copie in Balsamiq da provare sulla macchina di supporto.
+- Il salvataggio è accessibile soltanto come download sperimentale con attivazione esplicita nell'interfaccia. Non presentare la compatibilità Balsamiq come verificata.
+- Demo e fixture distribuite sono sintetiche. L'utente ha indicato la raccolta Dropbox come fonte di esempi: autorizzate analisi e prove locali in sola lettura, senza inserire file, testi o screenshot privati nel repository.
 - Nome cartella: `bmpr-editor`, scelto da Antonio. Il nome dell'app è ancora da decidere.
-- Ancora da decidere: TypeScript semplice o React, licenza, dove pubblicare.
+- Confronto visivo locale eseguito su 13 pagine della raccolta, con correzioni al renderer; manifest e immagini private soltanto nella cartella temporanea esterna. Vedere `VALIDAZIONE.md` per campioni, riferimenti obsoleti e limiti. Non confondere i 456 abbinamenti candidati con verifiche completate.
+- Ancora da decidere: licenza e pubblicazione. L'app è stata preparata per Docker locale; non è stata pubblicata.
 
 ## Fatti accertati sul formato
 
 - Il `.bmpr` è un database **SQLite 3** con le tabelle `INFO`, `BRANCHES`, `RESOURCES`, `THUMBNAILS`, `USERS`, `COMMENTS`.
 - Ogni pagina è in `RESOURCES.DATA` come JSON: `mockup.controls.control` = lista di controlli con `typeID`, `x`, `y`, `w`, `h`, `zOrder` e `properties`.
-- È stato visto **un solo file** (`SchemaVersion` 2.0): il resto va verificato su altri file.
+- Analizzati in sola lettura 281 file reali: 240 con schema 2.0 e 41 con schema 1.2, per 3867 pagine. Su tutti verificati no-op identico e modifica/riapertura nell'editor in memoria, senza modificare gli originali. Questa verifica non sostituisce Balsamiq vero.
 
 ## Regole fisse
 
@@ -30,7 +34,7 @@ Un'app web gratuita che apre i file `.bmpr` **nel browser, senza server**, li mo
    - niente logo, grafica, icone, font o codice di Balsamiq;
    - non presentarla come «Balsamiq gratis» né far pensare a un legame ufficiale.
    Si può dire solo «compatibile con i file .bmpr». Prima di pubblicare, leggere la licenza di Balsamiq.
-3. **Privacy**: l'app lavora solo in locale nel browser. In test, demo e portfolio si usano solo file creati da zero, **mai mockup di clienti**. Le note contengono ancora esempi con testi del cliente: vanno tolti prima di pubblicare.
+3. **Privacy**: l'app lavora solo in locale nel browser. In test distribuiti, demo e portfolio si usano solo file creati da zero, **mai mockup di clienti**. I testi di esempio nelle note sono stati neutralizzati; ricontrollare comunque i documenti prima di pubblicare. Su indicazione dell'utente si possono verificare localmente i file Dropbox in sola lettura, senza distribuirne contenuti o artefatti.
 
 ## Come lavorare con Antonio
 

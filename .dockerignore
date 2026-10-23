@@ -1,0 +1,11 @@
+.git
+node_modules
+dist
+test-results
+playwright-report
+.env*
+*.bmpr
+private-samples
+tests
+scripts
+artifacts

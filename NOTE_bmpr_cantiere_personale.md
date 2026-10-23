@@ -50,14 +50,14 @@ SQLite con queste tabelle:
 | `THUMBNAILS` | anteprime delle pagine |
 | `USERS`, `COMMENTS` | utenti e commenti (nel file visto: 0 commenti) |
 
-Il JSON di una pagina (`DATA`): `mockup.controls.control` = lista di controlli. Esempi reali:
+Il JSON di una pagina (`DATA`): `mockup.controls.control` = lista di controlli. Esempi strutturali con testi neutralizzati:
 
 ```json
 {"ID":"0","typeID":"Canvas","zOrder":"2","x":"298","y":"181","w":"987","h":"97",
  "properties":{"color":"10667209"}}
 
 {"ID":"14","typeID":"Label","x":"319","y":"448","measuredW":"76","measuredH":"21",
- "properties":{"text":"OCR Bolletta","color":"10066329"}}
+ "properties":{"text":"Titolo esempio","color":"10066329"}}
 
 {"ID":"6","typeID":"Icon","x":"582","y":"438",
  "properties":{"icon":{"ID":"circle-solid","size":"small"}}}

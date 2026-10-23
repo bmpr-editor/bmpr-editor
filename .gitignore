@@ -1,0 +1,12 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.tsbuildinfo
+.env*
+!.env.example
+.DS_Store
+tests/fixtures/generated/
+private-samples/
+*.local.*
+artifacts/
