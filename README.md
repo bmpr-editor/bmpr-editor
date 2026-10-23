@@ -1,5 +1,7 @@
 # bmpr-editor
 
+Proposte di logo e kit web/stampa: [galleria locale](assets/logos/index.html), [anteprima](assets/logos/preview.png), [guida ai formati](assets/logos/README.md). I quattro concept sono ancora da scegliere.
+
 Editor web locale per file `.bmpr`: apre progetti SQLite, visualizza le pagine, modifica i wireframe ed esporta i risultati. React + TypeScript, Vite, sql.js/WebAssembly, SVG e rough.js. Docker serve l'app con Nginx; i documenti vengono elaborati esclusivamente nel browser.
 
 **Stato: prima versione funzionante. Il salvataggio `.bmpr` è sperimentale, non ancora certificato mediante riapertura in Balsamiq.** Il download richiede un'attivazione esplicita nella finestra di salvataggio. Conservare gli originali.

@@ -1,0 +1,322 @@
+[
+  {
+    "file": "01-monogramma/svg/mark-color-transparent.svg",
+    "concept": "01-monogramma",
+    "layout": "mark",
+    "variant": "color-transparent",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/lockup-color-transparent.svg",
+    "concept": "01-monogramma",
+    "layout": "lockup",
+    "variant": "color-transparent",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/mark-color-white.svg",
+    "concept": "01-monogramma",
+    "layout": "mark",
+    "variant": "color-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/lockup-color-white.svg",
+    "concept": "01-monogramma",
+    "layout": "lockup",
+    "variant": "color-white",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/mark-color-dark.svg",
+    "concept": "01-monogramma",
+    "layout": "mark",
+    "variant": "color-dark",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/lockup-color-dark.svg",
+    "concept": "01-monogramma",
+    "layout": "lockup",
+    "variant": "color-dark",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/mark-mono-black.svg",
+    "concept": "01-monogramma",
+    "layout": "mark",
+    "variant": "mono-black",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/lockup-mono-black.svg",
+    "concept": "01-monogramma",
+    "layout": "lockup",
+    "variant": "mono-black",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/mark-mono-white.svg",
+    "concept": "01-monogramma",
+    "layout": "mark",
+    "variant": "mono-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "01-monogramma/svg/lockup-mono-white.svg",
+    "concept": "01-monogramma",
+    "layout": "lockup",
+    "variant": "mono-white",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/mark-color-transparent.svg",
+    "concept": "02-wireframe",
+    "layout": "mark",
+    "variant": "color-transparent",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/lockup-color-transparent.svg",
+    "concept": "02-wireframe",
+    "layout": "lockup",
+    "variant": "color-transparent",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/mark-color-white.svg",
+    "concept": "02-wireframe",
+    "layout": "mark",
+    "variant": "color-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/lockup-color-white.svg",
+    "concept": "02-wireframe",
+    "layout": "lockup",
+    "variant": "color-white",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/mark-color-dark.svg",
+    "concept": "02-wireframe",
+    "layout": "mark",
+    "variant": "color-dark",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/lockup-color-dark.svg",
+    "concept": "02-wireframe",
+    "layout": "lockup",
+    "variant": "color-dark",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/mark-mono-black.svg",
+    "concept": "02-wireframe",
+    "layout": "mark",
+    "variant": "mono-black",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/lockup-mono-black.svg",
+    "concept": "02-wireframe",
+    "layout": "lockup",
+    "variant": "mono-black",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/mark-mono-white.svg",
+    "concept": "02-wireframe",
+    "layout": "mark",
+    "variant": "mono-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "02-wireframe/svg/lockup-mono-white.svg",
+    "concept": "02-wireframe",
+    "layout": "lockup",
+    "variant": "mono-white",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/mark-color-transparent.svg",
+    "concept": "03-pagine",
+    "layout": "mark",
+    "variant": "color-transparent",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/lockup-color-transparent.svg",
+    "concept": "03-pagine",
+    "layout": "lockup",
+    "variant": "color-transparent",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/mark-color-white.svg",
+    "concept": "03-pagine",
+    "layout": "mark",
+    "variant": "color-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/lockup-color-white.svg",
+    "concept": "03-pagine",
+    "layout": "lockup",
+    "variant": "color-white",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/mark-color-dark.svg",
+    "concept": "03-pagine",
+    "layout": "mark",
+    "variant": "color-dark",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/lockup-color-dark.svg",
+    "concept": "03-pagine",
+    "layout": "lockup",
+    "variant": "color-dark",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/mark-mono-black.svg",
+    "concept": "03-pagine",
+    "layout": "mark",
+    "variant": "mono-black",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/lockup-mono-black.svg",
+    "concept": "03-pagine",
+    "layout": "lockup",
+    "variant": "mono-black",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/mark-mono-white.svg",
+    "concept": "03-pagine",
+    "layout": "mark",
+    "variant": "mono-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "03-pagine/svg/lockup-mono-white.svg",
+    "concept": "03-pagine",
+    "layout": "lockup",
+    "variant": "mono-white",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/mark-color-transparent.svg",
+    "concept": "04-nodi",
+    "layout": "mark",
+    "variant": "color-transparent",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/lockup-color-transparent.svg",
+    "concept": "04-nodi",
+    "layout": "lockup",
+    "variant": "color-transparent",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/mark-color-white.svg",
+    "concept": "04-nodi",
+    "layout": "mark",
+    "variant": "color-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/lockup-color-white.svg",
+    "concept": "04-nodi",
+    "layout": "lockup",
+    "variant": "color-white",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/mark-color-dark.svg",
+    "concept": "04-nodi",
+    "layout": "mark",
+    "variant": "color-dark",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/lockup-color-dark.svg",
+    "concept": "04-nodi",
+    "layout": "lockup",
+    "variant": "color-dark",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/mark-mono-black.svg",
+    "concept": "04-nodi",
+    "layout": "mark",
+    "variant": "mono-black",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/lockup-mono-black.svg",
+    "concept": "04-nodi",
+    "layout": "lockup",
+    "variant": "mono-black",
+    "width": 570,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/mark-mono-white.svg",
+    "concept": "04-nodi",
+    "layout": "mark",
+    "variant": "mono-white",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "04-nodi/svg/lockup-mono-white.svg",
+    "concept": "04-nodi",
+    "layout": "lockup",
+    "variant": "mono-white",
+    "width": 570,
+    "height": 128
+  }
+]
